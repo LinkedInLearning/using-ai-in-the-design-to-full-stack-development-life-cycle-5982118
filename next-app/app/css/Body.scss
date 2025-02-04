@@ -1,0 +1,41 @@
+.body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #f3f4f6;
+  padding: 4rem 1rem;
+}
+
+.body-container {
+  display: flex;
+  max-width: 64rem;
+  background-color: white;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  border-radius: 0.5rem;
+  overflow: hidden;
+}
+
+.body-image {
+  width: 50%;
+  background-color: #d1d5db;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #6b7280;
+  font-size: 1.5rem;
+}
+
+.body-content {
+  width: 50%;
+  padding: 1.5rem;
+}
+
+.body-title {
+  font-size: 1.25rem;
+  font-weight: bold;
+}
+
+.body-text {
+  margin-top: 0.5rem;
+  color: #4b5563;
+}
