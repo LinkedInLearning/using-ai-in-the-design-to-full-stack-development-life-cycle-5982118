@@ -8,11 +8,13 @@
 
 .body-container {
   display: flex;
-  max-width: 64rem;
+  flex-direction: row;
+  width: 100%;
   background-color: white;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
   border-radius: 0.5rem;
   overflow: hidden;
+  justify-content: center;
 }
 
 .body-image {
@@ -26,7 +28,7 @@
 }
 
 .body-content {
-  width: 50%;
+  width: 100%;
   padding: 1.5rem;
 }
 
@@ -38,4 +40,20 @@
 .body-text {
   margin-top: 0.5rem;
   color: #4b5563;
+}
+
+.pets {
+  img {
+    width: auto;
+    height: auto;
+    border: 1px solid black;
+    border-radius: 15px;
+  }
+}
+
+.pet-list {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  gap: 3rem;
 }
