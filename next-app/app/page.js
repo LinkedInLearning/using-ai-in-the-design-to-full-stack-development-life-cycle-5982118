@@ -5,11 +5,11 @@ import Footer from "./components/Footer";
 
 export default function Home() {
   return (
-    <div className="Home">
+    <main role="main" title="home" className="Home">
       <Nav />
       <Hero />
       <Body />
       <Footer />
-    </div>
+    </main>
   );
 }

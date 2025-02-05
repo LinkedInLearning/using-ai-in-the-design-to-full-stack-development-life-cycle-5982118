@@ -1,6 +1,6 @@
 export default function Footer() {
   return (
-    <footer className="footer">
+    <footer className="footer" data-testid="footer">
       <p>&copy; 2023 Your Company. All rights reserved.</p>
       <div className="social-links">
         <a href="#" className="social-icon">&#x1F426;</a>

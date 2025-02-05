@@ -8,8 +8,6 @@ const client = createClient({
 export async function fetchPets() {
   const response = await client.getEntries({ content_type: 'petInfo' });
 
-  console.log(response)
-
   return response.items.map((item) => ({
     id: item.sys.id,
     name: item.fields.petName,
