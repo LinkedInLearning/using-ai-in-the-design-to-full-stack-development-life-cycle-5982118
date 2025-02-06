@@ -11,7 +11,7 @@ export default async function Body() {
           <div className="body-text pets">
             <h1 className="body-title" role="heading">Adoptable Pets</h1>
             <div className="pet-list">
-              {/* {pets.map((pet) => (
+              {pets.map((pet) => (
                 <div key={pet.id}>
                   <Image
                     src={pet.photo}
@@ -23,7 +23,7 @@ export default async function Body() {
                   <h2>{pet.name}</h2>
                   <p>Age: {pet.age}</p>
                 </div>
-              ))} */}
+              ))}
             </div>
           </div>
         </div>
