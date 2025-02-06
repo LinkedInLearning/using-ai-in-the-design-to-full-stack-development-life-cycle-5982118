@@ -1,4 +1,4 @@
-# 🐶 LinkedIn Learning Pet Adoption Site 🐾🐱
+# 🐶 LinkedIn Learning Pet Adoption Site (For Devs) 🐾🐱
 
 ## Overview 🏡🐕🐾
 
