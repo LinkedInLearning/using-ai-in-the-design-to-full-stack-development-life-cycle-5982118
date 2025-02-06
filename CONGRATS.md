@@ -27,12 +27,14 @@ Now, you stand at the finish line—not just with knowledge, but with new tools 
 
 ## A Few Parting Words...  
 
-Learning is a journey, and this is just one milestone. Keep that curiosity alive, keep coding, and most importantly—enjoy the process!  
+With the rapid growth of AI and its integration into our daily lives, it's so important for us as developers to stay current on where our industry is headed. In doing so, we are able to help shape the future of development. 
 
-If this course inspired you or gave you that “aha!” moment, let me know! I’d love to hear how you’re using AI in your projects.  
+Learning is a process, and this is just one milestone. Keep that curiosity alive, keep coding, and most importantly—enjoy the journey!  
 
-Until next time—happy coding! 🚀✨  
+If this course inspired you or gave you that big “aha!” moment, feel free to connect with me on LinkedIn and let me know! I’d love to hear how you’re using AI in your workflow. 
 
-**P.S.** Don’t forget to celebrate your achievement! You’ve earned it. 🎉  
+I'm Dakota and I thank you for trusting me with your curiosity and time!
+
+Now go forth and be awesome! 🎉  
 
 -- Dakota
