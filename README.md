@@ -1,6 +1,15 @@
 # Using AI in the Design to Full-Stack Development Life Cycle
 This is the repository for the LinkedIn Learning course Using AI in the Design to Full-Stack Development Life Cycle. The full course is available from [LinkedIn Learning][lil-course-url].
 
+![lil-thumbnail-url]
+
+Learn how to use AI tools throughout the full stack web development process while building a full stack web application in this course with instructor Dakota Fabro. Dakota shows you how to build a full stack ecommerce platform that leverages AI at every stage of development, from design to deployment and maintenance. This e-commerce platform—in the form of a pet adoption website—includes AI-generated pet care instructions based on pet breed, a content management system, a responsive user interface, and real-time analytics.
+
+Learning objectives
+- Leverage AI to increase your efficiency and productivity as a developer.
+- Recognize the different methods of leveraging AI tools in each stage of the design to development process.
+- Build a pet adoption site using the AI tools leveraged throughout the dev process.
+
 _See the README file in root for updated instructions and information._
 
 ## Instructions
@@ -34,9 +43,20 @@ To resolve this issue:
 	- a GitHub account to use Codespaces (for browser-based remote development)
 2. For local development on your machine, you will need `npm` and `Node`.
     - Clone this repository into your local machine using the terminal (Mac), CMD (Windows), or a GUI tool like SourceTree.
+  
+
+## Instructor
+
+Dakota Fabro
+
+Software Engineer, Educator
+
+Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/dakota-fabro?u=104).
+
+
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
 
 [lil-course-url]: https://www.linkedin.com/learning/
-[lil-thumbnail-url]: http://
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/v2/D4D0DAQEpwEOxJDMD-A/learning-public-crop_675_1200/B4DZVegT0sG8Ac-/0/1741047283297?e=2147483647&v=beta&t=bTgekdZQvIw8ZOuOmTNs-u8Z7GmDh7VGR2mxuFcXhBo
 
