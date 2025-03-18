@@ -43,9 +43,20 @@ To resolve this issue:
 	- a GitHub account to use Codespaces (for browser-based remote development)
 2. For local development on your machine, you will need `npm` and `Node`.
     - Clone this repository into your local machine using the terminal (Mac), CMD (Windows), or a GUI tool like SourceTree.
+  
+
+## Instructor
+
+Dakota Fabro
+
+Software Engineer, Educator
+
+Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/dakota-fabro?u=104).
+
+
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
 
 [lil-course-url]: https://www.linkedin.com/learning/
-[lil-thumbnail-url]: http://
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/v2/D4D0DAQEpwEOxJDMD-A/learning-public-crop_675_1200/B4DZVegT0sG8Ac-/0/1741047283297?e=2147483647&v=beta&t=bTgekdZQvIw8ZOuOmTNs-u8Z7GmDh7VGR2mxuFcXhBo
 
