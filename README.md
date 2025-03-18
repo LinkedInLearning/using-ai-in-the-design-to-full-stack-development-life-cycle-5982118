@@ -1,6 +1,15 @@
 # Using AI in the Design to Full-Stack Development Life Cycle
 This is the repository for the LinkedIn Learning course Using AI in the Design to Full-Stack Development Life Cycle. The full course is available from [LinkedIn Learning][lil-course-url].
 
+![lil-thumbnail-url]
+
+Learn how to use AI tools throughout the full stack web development process while building a full stack web application in this course with instructor Dakota Fabro. Dakota shows you how to build a full stack ecommerce platform that leverages AI at every stage of development, from design to deployment and maintenance. This e-commerce platform—in the form of a pet adoption website—includes AI-generated pet care instructions based on pet breed, a content management system, a responsive user interface, and real-time analytics.
+
+Learning objectives
+- Leverage AI to increase your efficiency and productivity as a developer.
+- Recognize the different methods of leveraging AI tools in each stage of the design to development process.
+- Build a pet adoption site using the AI tools leveraged throughout the dev process.
+
 _See the README file in root for updated instructions and information._
 
 ## Instructions
